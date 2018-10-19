@@ -13,7 +13,7 @@
     11: Doble cola (bicola)
     12: Lista enlazada simple
 
-    Actividad1: Recursividad: (desplegar primeros 100 numeros naturales)
+    Practica1-100NR: Recursividad: Imprimir los primeros 100 números naturales.
     Actividad2: Recursividad: (factorial, ambos metodos)
     Actividad3: Recursividad: (fibonacci, ambos metodos)
     Actividad4: Recursividad: (menu, tres tareas anteriores)
@@ -23,5 +23,3 @@
     Actividad8: Colas: Operacion add
     Actividad9: Colas: Operacion remove
     Actividad10: Colas: Operacion show 
-
-
