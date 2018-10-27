@@ -14,9 +14,9 @@
     12: Lista enlazada simple
 
     Practica1-100NR: Recursividad: Imprimir los primeros 100 números naturales.
-    Actividad2: Recursividad: (factorial, ambos metodos)
-    Actividad3: Recursividad: (fibonacci, ambos metodos)
-    Actividad4: Recursividad: (menu, tres tareas anteriores)
+    Practica2-Fac: Factorial de un numero (recursividad e iteracion).
+    Practica3-Fib Fibonacci (recursividad e iteracion).
+    Practica4-Menu: Menu de las practicas 1-3.
     Actividad5: Pilas: Operacion push
     Actividad6: Pilas: Operacion pop
     Actividad7: Pilas: Operacion peek
